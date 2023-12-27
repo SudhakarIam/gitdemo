@@ -1,3 +1,3 @@
 # gitdemo
 This is my first Git Repository.
-Author : Sudhakar
+Author : Sudhakar Kathi
